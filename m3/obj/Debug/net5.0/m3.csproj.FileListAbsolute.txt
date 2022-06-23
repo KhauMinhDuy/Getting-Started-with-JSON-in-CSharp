@@ -1,0 +1,17 @@
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\bin\Debug\net5.0\m3.exe
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\bin\Debug\net5.0\m3.deps.json
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\bin\Debug\net5.0\m3.runtimeconfig.json
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\bin\Debug\net5.0\m3.runtimeconfig.dev.json
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\bin\Debug\net5.0\m3.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\bin\Debug\net5.0\ref\m3.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\bin\Debug\net5.0\m3.pdb
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\m3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\m3.AssemblyInfoInputs.cache
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\m3.AssemblyInfo.cs
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\m3.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\m3.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\ref\m3.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\m3.pdb
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\m3.genruntimeconfig.cache
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\m3\obj\Debug\net5.0\m3.csproj.CopyComplete

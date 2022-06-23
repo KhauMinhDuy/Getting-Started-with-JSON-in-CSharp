@@ -1,0 +1,13 @@
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\bin\Debug\net5.0\JsonSamples.deps.json
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\bin\Debug\net5.0\JsonSamples.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\bin\Debug\net5.0\ref\JsonSamples.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\bin\Debug\net5.0\JsonSamples.pdb
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\obj\Debug\net5.0\JsonSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\obj\Debug\net5.0\JsonSamples.AssemblyInfoInputs.cache
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\obj\Debug\net5.0\JsonSamples.AssemblyInfo.cs
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\obj\Debug\net5.0\JsonSamples.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\obj\Debug\net5.0\JsonSamples.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\obj\Debug\net5.0\ref\JsonSamples.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\obj\Debug\net5.0\JsonSamples.pdb
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\bin\Debug\net5.0\AuthorSingle.json
+D:\ASP.NET Core\SourceCode\GettingStartedJson\JsonSamples\obj\Debug\net5.0\JsonSamples.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\bin\Debug\net5.0\GettingStartedJson.exe
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\bin\Debug\net5.0\GettingStartedJson.deps.json
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\bin\Debug\net5.0\GettingStartedJson.runtimeconfig.json
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\bin\Debug\net5.0\GettingStartedJson.runtimeconfig.dev.json
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\bin\Debug\net5.0\GettingStartedJson.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\bin\Debug\net5.0\ref\GettingStartedJson.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\bin\Debug\net5.0\GettingStartedJson.pdb
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\GettingStartedJson.csproj.AssemblyReference.cache
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\GettingStartedJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\GettingStartedJson.AssemblyInfoInputs.cache
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\GettingStartedJson.AssemblyInfo.cs
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\GettingStartedJson.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\GettingStartedJson.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\ref\GettingStartedJson.dll
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\GettingStartedJson.pdb
+D:\ASP.NET Core\SourceCode\GettingStartedJson\GettingStartedJson\obj\Debug\net5.0\GettingStartedJson.genruntimeconfig.cache

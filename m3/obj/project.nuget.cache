@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2jyaASWA7aV9INqw/aBr38NU4irbSDMe8kvWYHDbE/TIlhke48X9EcQtYokg9be6Uh9nipK0pXP1+T37eKEXw==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET Core\\SourceCode\\GettingStartedJson\\m3\\m3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duykh\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
