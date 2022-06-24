@@ -11,6 +11,10 @@ namespace m2
             ObjectReferencesDemo.Show();
             Console.WriteLine("----------------------------------------------");
             DynamicDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            SerializeObjectsDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            DeserializeObjectsDemo.Show();
         }
     }
 }
