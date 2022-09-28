@@ -1,12 +1,11 @@
 {
-  "Name": "Xavier Morena",
+  "Name": "Xavier Morera",
   "Courses": [
     "Solr",
     "Spark",
-    "Python",
     "Jira"
   ],
-  "Since": "0001-01-01T00:00:00",
+  "Since": "2014-01-15T00:00:00",
   "Happy": true,
   "Issues": null,
   "Car": null,
