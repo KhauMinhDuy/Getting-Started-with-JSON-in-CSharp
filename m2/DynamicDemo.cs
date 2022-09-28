@@ -23,7 +23,13 @@ namespace m2
             Console.WriteLine("- Deserialize");
             /*---------------------------------------------------------*/
             dynamic authorDeserialized = JsonConvert.DeserializeObject(jsonDynamicAuthor);
+
             Console.WriteLine("Friendly Name: " + authorDeserialized.FriendlyName);
+
+
+            dynamic v = JsonConvert.DeserializeObject("{\"name\" : \"123\"}");
+            Console.WriteLine($"{v}");
+            
         }
     }
 }

@@ -15,9 +15,9 @@ namespace m2
 
             Author xavier = new Author()
             {
-                name = "Xavier Morena",
-                courses = new string[] { "Solr", "Spark", "Python", "Jira" },
-                happy = true
+                Name = "Xavier Morena",
+                Courses = new string[] { "Solr", "Spark", "Python", "Jira" },
+                Happy = true
             };
 
             /*---------------------------------------------------------*/
@@ -50,7 +50,10 @@ namespace m2
 
             /*---------------------------------------------------------*/
             Console.WriteLine("Step 5: Serialize JSON to a file");
-            File.WriteAllText(@"xavier.json", JsonConvert.SerializeObject(xavier));
+            File.WriteAllText(@"xavier.json", JsonConvert.SerializeObject(xavier, new JsonSerializerSettings
+            {
+                Formatting = Formatting.Indented
+            }));
         }
     }
 }

@@ -16,23 +16,23 @@ namespace m2
 
             Author xavier = new Author()
             {
-                name = "Xavier Morera",
-                courses = new string[] { "Solr", "Spark", "Jira", "Python" }
+                Name = "Xavier Morera",
+                Courses = new string[] { "Solr", "Spark", "Jira", "Python" }
             };
 
             Author lars = new Author()
             {
-                name = "Lars Klint",
-                courses = new string[] { "Windows Phone" }
+                Name = "Lars Klint",
+                Courses = new string[] { "Windows Phone" }
             };
 
             Author jason = new Author()
             {
-                name = "Jason Alba",
-                courses = new string[] { "Email", "Soft Skills" }
+                Name = "Jason Alba",
+                Courses = new string[] { "Email", "Soft Skills" }
             };
 
-            xavier.favoriteAuthors = new List<Author> { xavier, jason, lars, jason };
+            xavier.FavoriteAuthors = new List<Author> { xavier, jason, lars, jason };
 
             string xavierJson = JsonConvert.SerializeObject(xavier, new JsonSerializerSettings
             {
