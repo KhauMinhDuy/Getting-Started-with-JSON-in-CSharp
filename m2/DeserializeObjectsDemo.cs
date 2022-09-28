@@ -23,7 +23,7 @@ namespace m2
             /*---------------------------------------------------------*/
             Console.WriteLine("Step 2: Deserialize into a var");
             var authorVar = JsonConvert.DeserializeObject(jsonAuthor);
-            Console.WriteLine(authorObj.Name);
+            Console.WriteLine(authorVar);
 
             /*---------------------------------------------------------*/
             Console.WriteLine("Step 3: Deserialize into an anonymous type");

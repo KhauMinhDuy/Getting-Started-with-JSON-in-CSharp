@@ -15,6 +15,14 @@ namespace m2
             SerializeObjectsDemo.Show();
             Console.WriteLine("----------------------------------------------");
             DeserializeObjectsDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            JsonSerializerDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            JsonTextReaderDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            JsonTextWriterDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            JsonDatesDemo.Show();
         }
     }
 }
