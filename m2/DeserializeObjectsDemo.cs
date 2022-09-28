@@ -2,9 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace m2
 {
@@ -21,12 +18,12 @@ namespace m2
             /*---------------------------------------------------------*/
             Console.WriteLine("Step 1: Deserialize to a typed object");
             Author authorObj = JsonConvert.DeserializeObject<Author>(jsonAuthor);
-            Console.WriteLine(authorObj.name);
+            Console.WriteLine(authorObj.Name);
 
             /*---------------------------------------------------------*/
             Console.WriteLine("Step 2: Deserialize into a var");
             var authorVar = JsonConvert.DeserializeObject(jsonAuthor);
-            Console.WriteLine(authorObj.name);
+            Console.WriteLine(authorObj.Name);
 
             /*---------------------------------------------------------*/
             Console.WriteLine("Step 3: Deserialize into an anonymous type");
@@ -62,7 +59,7 @@ namespace m2
             /*---------------------------------------------------------*/
             Console.WriteLine("Step 6: Deserialize JSON from a file");
             Author xavierAuthor = JsonConvert.DeserializeObject<Author>(File.ReadAllText(@"xavier.json"));
-            Console.WriteLine(xavierAuthor.name);
+            Console.WriteLine(xavierAuthor.Name);
         }
     }
 }

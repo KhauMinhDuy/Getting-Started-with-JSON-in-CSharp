@@ -1,10 +1,7 @@
-﻿using JsonSamples;
+﻿using System.Linq;
+using JsonSamples;
 using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace m2
 {
@@ -21,7 +18,8 @@ namespace m2
             /*---------------------------------------------------------*/
             Console.WriteLine(Environment.NewLine + "Step 2: Output Property Author.Name from deserialized class");
             Author xavierAuthor = JsonConvert.DeserializeObject<Author>(jsonSample);
-            Console.WriteLine(xavierAuthor.name);
+            Console.WriteLine(xavierAuthor.Name);
+            Console.WriteLine(xavierAuthor.Courses.Count());
 
             /*---------------------------------------------------------*/
             Console.WriteLine(Environment.NewLine + "Step 3: Output serialized Author class");
