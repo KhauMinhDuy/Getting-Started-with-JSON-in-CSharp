@@ -23,6 +23,12 @@ namespace m2
             JsonTextWriterDemo.Show();
             Console.WriteLine("----------------------------------------------");
             JsonDatesDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            DeserializeErrorDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            ConversionErrorsDemo.Show();
+            Console.WriteLine("----------------------------------------------");
+            HandleConversionErrorsDemo.Show();
         }
     }
 }

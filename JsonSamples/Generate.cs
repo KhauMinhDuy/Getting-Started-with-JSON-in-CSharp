@@ -33,5 +33,11 @@ namespace JsonSamples
             dataSet.AcceptChanges();
             return dataSet;
         }
+
+        public static string DatesJson()
+        {
+            return File.ReadAllText("AuthorDates.json");
+        }
+
     }
 }
